@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi there, I'm Noa Paris
 
-<!--
-**Noa47/Noa47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently a Master's student in Computer Science – Software Engineering at the **University of Bordeaux**. I'm particularly interested in full-stack development, object-oriented programming, and increasingly focused on database design and machine learning.
 
-Here are some ideas to get you started:
+## 🛠️ Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Python, Java, C, OCaml, PHP, SQL, HTML/CSS, JavaScript
+- **Frameworks & Tools**: Laravel, PostgreSQL, Logisim, Git, LaTeX
+- **Languages Spoken**: French (native), English (B2)
+
+## 📚 Interests
+
+- Web and Software Development  
+- Database Systems
+
+## 📫 Contact Me
+
+- Email: [noa.paris4@gmail.com](mailto:noa.paris4@gmail.com)  
+- Location: Pessac, Gironde, France
+
+---
+
+Thanks for visiting my profile! I'm currently looking for an **internship** or **collaborative projects** to further develop my skills in a practical, team-oriented environment.
