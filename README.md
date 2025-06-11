@@ -1,19 +1,19 @@
 # 👋 Hi there, I'm Noa Paris
 
-🎓 I'm currently a Master's student in Computer Science – Software Engineering at the **University of Bordeaux**. I'm particularly interested in full-stack development, object-oriented programming, and increasingly focused on database design and machine learning.
+I'm currently a Master's student in Computer Science – Software Engineering at the **University of Bordeaux**. I'm particularly interested in full-stack development, object-oriented programming, and increasingly focused on database design.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 - **Languages**: Python, Java, C, OCaml, PHP, SQL, HTML/CSS, JavaScript
 - **Frameworks & Tools**: Laravel, PostgreSQL, Logisim, Git, LaTeX
 - **Languages Spoken**: French (native), English (B2)
 
-## 📚 Interests
+## Interests
 
 - Web and Software Development  
 - Database Systems
 
-## 📫 Contact Me
+## Contact Me
 
 - Email: [noa.paris4@gmail.com](mailto:noa.paris4@gmail.com)  
 - Location: Pessac, Gironde, France
